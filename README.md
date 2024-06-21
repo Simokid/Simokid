@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Simon-Trung Pham, I am a student at University of Central Florida taking BS in Information Technology.
+
+I am interested in software programming and cybersecurity! 
+
+I am currently learning how to code in Python.
+
 <!--
 **Simokid/Simokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
