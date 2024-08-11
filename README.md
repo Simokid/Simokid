@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My name is Simon-Trung Pham, I am a student at University of Central Florida taking BS in Information Technology.
-
+My name is Simon-Trung Pham, I have a degree in Information Technology from University of Central Florida.
 I am interested in software programming and cybersecurity! 
 
 I am currently learning how to code in Python.
