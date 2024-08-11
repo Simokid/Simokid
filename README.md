@@ -3,7 +3,6 @@
 My name is Simon-Trung Pham, I have a degree in Information Technology from University of Central Florida.
 I am interested in software programming and cybersecurity! 
 
-I am currently learning how to code in Python.
 
 <!--
 **Simokid/Simokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
