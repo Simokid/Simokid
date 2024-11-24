@@ -9,7 +9,7 @@ In this Github Repository I have presented a range of projects that highlight my
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - IT Helpdesk Lab Series
-- Microsoft Office 365 Adminc Center 
+- Microsoft Office 365 Admin Center 
 
 ## Tools
 
