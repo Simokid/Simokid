@@ -8,7 +8,7 @@ In this Github Repository I have presented a range of projects that highlight my
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- IT Helpdesk Lab Series
+- [IT Helpdesk Lab Series](https://github.com/Simokid/IT-Helpdesk-Lab-Series/edit/main/README.md)
 - Microsoft Office 365 Admin Center 
 
 ## Tools
