@@ -1,60 +1,73 @@
-# Hello, I'm Simon
-<a href="https://www.linkedin.com/in/simon-trung-pham/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Simon!
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I have a degree in Information Technology and a profound interest in Cybersecurity! 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+In this Github Repository I have presented a range of projects that highlight my skills in problem-solving, practical application, and utilizing industry-standard tools and approaches to tackle real-world tech difficulties.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- IT Helpdesk Lab Series
+- Microsoft Office 365 Adminc Center 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Virtualization and Setup
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+   <a href="https://www.virtualbox.org/" target="_blank">
+      <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-1B5E20?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+   </a>
 </div>
 
-### Endpoint
+
+### Software Deployment and Inventory
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   <a href="https://www.pdq.com/pdq-deploy/" target="_blank">
+      <img src="https://img.shields.io/badge/-PDQ%20Deploy-FF5733?&style=for-the-badge&logo=windows&logoColor=white" />
+   </a>
+<div>
+   <a href="https://www.pdq.com/pdq-inventory/" target="_blank">
+      <img src="https://img.shields.io/badge/-PDQ%20Inventory-FF5733?&style=for-the-badge&logo=windows&logoColor=white" />
+   </a>
 </div>
 
-### SIEM
+
+### Helpdesk Tools and Processes
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <a href="https://www.spiceworks.com/free-cloud-help-desk-software/" target="_blank">
+      <img src="https://img.shields.io/badge/-Spiceworks-0052CC?&style=for-the-badge&logo=spiceworks&logoColor=white" />
+   </a>
 </div>
+
+    
+### Advanced Administration
+<div>
+   <a href="https://www.microsoft.com/en-us/microsoft-365/business/microsoft-365-administration?msockid=17972cba6afa6b9a37653f846b966a54" target="_blank">
+      <img src="https://img.shields.io/badge/-Microsoft%20Office%20365%20Admin%20Center-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+   </a>
+</div>
+
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+   <a href="https://www.credly.com/badges/20728c2d-1326-4497-b9f9-6cfa9fbfcd4a/linked_in?t=skyejw" target="_blank">
+      <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   </a>
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
+
+
+
+<h2> 🌐 Lets Connect:</h2>
+
+<div>
+   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7248807619295948800/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+</div>
+
+
+
+
