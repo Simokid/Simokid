@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Simon-Trung Pham, I have a degree in Information Technology from University of Central Florida.
-I am interested in software programming and cybersecurity! 
+I am interested in Information Technology and Cybersecurity! 
 
 
 <!--
