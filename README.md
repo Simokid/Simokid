@@ -4,7 +4,7 @@ I have a degree in Information Technology and a profound interest in Cybersecuri
 
 ## Objective
 
-In this Github Repository I have presented a range of projects that highlight my skills in problem-solving, practical application, and utilizing industry-standard tools and approaches to tackle real-world tech difficulties.
+In this Github Repository, I have presented a range of projects that highlight my skills in problem-solving, practical application, and utilizing industry-standard tools and approaches to tackle real-world tech difficulties.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
