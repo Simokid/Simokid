@@ -11,7 +11,9 @@ In this Github Repository, I have presented a range of projects that highlight m
 - [IT Helpdesk Lab Series](https://github.com/Simokid/IT-Helpdesk-Lab-Series/tree/main)
 - [Microsoft Office 365 Admin Center Lab](https://github.com/Simokid/Microsoft-Office-365-Admin-Center-Lab)
 
-## Tools
+<h2>💻 Coding Projects:</h2>
+
+- [Mastermind Coding Project](https://github.com/Simokid/Mastermind-Project)
 
 ### Virtualization and Setup
 <div>
