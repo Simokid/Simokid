@@ -17,7 +17,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 <h2>📦 Tools and Applications</h2>
 
-### Virtualization and Setup
+### Virtualization
 <div>
    <a href="https://www.virtualbox.org/" target="_blank">
       <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-1B5E20?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
