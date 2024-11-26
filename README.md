@@ -1,6 +1,6 @@
 # Hello, I'm Simon!
 
-I have a degree in Information Technology and a profound interest in Cybersecurity! 
+I have a degree in Information Technology and a strong interest in Cybersecurity! 
 
 ## Objective
 
@@ -14,6 +14,8 @@ In this Github Repository, I have presented a range of projects that highlight m
 <h2>💻 Coding Projects:</h2>
 
 - [Mastermind Coding Project](https://github.com/Simokid/Mastermind-Project)
+
+<h2>Tools</h2>
 
 ### Virtualization and Setup
 <div>
