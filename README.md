@@ -1,6 +1,6 @@
-# Hello, I'm Simon!
+# Welcome to my Github, I'm Simon!
 
-I have a degree in Information Technology and a strong interest in Cybersecurity! 
+I have a degree in Information Technology and I am passionate in IT and Cybersecurity field! 
 
 ## Objective
 
