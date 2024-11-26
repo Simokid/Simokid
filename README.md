@@ -14,6 +14,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 <h2>💻 Coding Projects:</h2>
 
 - [Mastermind Coding Project](https://github.com/Simokid/Mastermind-Project)
+- [Comparing between Two Means](https://github.com/Simokid/Comparing-Two-Data-Sets)
 
 <h2>📦 Tools and Applications</h2>
 
