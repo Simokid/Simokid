@@ -15,7 +15,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 
 - [Mastermind Coding Project](https://github.com/Simokid/Mastermind-Project)
 
-<h2>📦 Tools</h2>
+<h2>📦 Tools and Applications</h2>
 
 ### Virtualization and Setup
 <div>
