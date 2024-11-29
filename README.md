@@ -66,7 +66,7 @@ In this Github Repository, I have presented a range of projects that highlight m
 <h2> 🌐 Lets Connect:</h2>
 
 <div>
-   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7248807619295948800/" target="_blank">
+   <a href="https://www.linkedin.com/in/simon-trung-pham/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
 </div>
